@@ -1,0 +1,113 @@
+#title {
+  background-color: #7c9933;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 2;
+  margin: 2rem 2rem 2rem 0;
+}
+
+.btn {
+  text-align: right;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+.my-image {
+  transform: rotate(30deg);
+}
+
+.navbar-brand {
+  font-family: 'MuseoModerno', cursive;
+  font-size: 3rem;
+}
+
+#navbarSupportedContent {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-dark {
+  padding-left: 0;
+}
+
+i {
+  padding: 1rem;
+  padding-right: 0px;
+}
+
+.fa-4x:hover {
+  color: #7c9933;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+#features {
+  margin: 50px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  background-color: white;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #7c9933;
+
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-weight: bolder;
+}
+.testimonials-1{
+ padding: 8rem;
+}
+
+.testimonial-image {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 20%;
+
+}
+#press{
+  padding: 0rem 5rem 5rem 5rem ;
+}
+
+
+#pricing {
+  text-align: center;
+}
+
+.pricing-plan {
+  margin: 5rem;
+
+}
+#cta {
+  text-align: center;
+  padding: 10rem;
+  background-color: #7c9933;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+.last {
+  padding: 3rem;
+  text-align: center;
+    background-color: #7c9933;
+}
+i:hover {
+  color: white;
+}
+.my-image {
+  position: relative;
+  z-index: 0;
+}
